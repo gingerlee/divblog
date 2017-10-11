@@ -1,0 +1,19 @@
+body {
+  background-color: #333;
+  font-family: sans-serif;
+}
+
+.blog-post {
+  background-color: #666;
+  margin: 10px;
+}
+
+#header {
+  background-color: #ccc;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: -1px;
+
+}
